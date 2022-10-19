@@ -29,4 +29,5 @@ function points(games) {
       sum = sum + 1;
     }
   }
+  return sum;
 }
